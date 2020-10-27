@@ -1,4 +1,4 @@
-package cn.itcast;
+package cn.baidu;
 
 import org.apache.flink.api.common.typeinfo.Types;
 import org.apache.flink.api.java.ExecutionEnvironment;
